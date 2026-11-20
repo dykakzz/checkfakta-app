@@ -1,0 +1,6 @@
+{
+  "name": "SaringFakta — Chatbot Cek Fakta & Detektor Deepfake",
+  "description": "Asisten chatbot cek fakta instan untuk memverifikasi video Instagram Reels, TikTok, screenshot postingan, klaim berita, serta mendeteksi manipulasi AI/Deepfake secara real-time dengan Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
